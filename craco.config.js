@@ -9,8 +9,5 @@ module.exports = {
       '@typedefs': path.resolve(__dirname, 'src/types/'),
       '@style': path.resolve(__dirname, 'src/style/'),
     },
-  },
-  eslint: {
-    enable: false
-  },
+  }
 }
